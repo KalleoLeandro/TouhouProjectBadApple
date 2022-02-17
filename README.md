@@ -3,3 +3,5 @@ Este repositório contém o projeto e os assets necessários para a reprodução
 
 ## Importação
 Ao importar o projeto, adicionar em seu build path a biblioteca para reprodução do arquivo de som
+
+![Screenshot](cover.png)
